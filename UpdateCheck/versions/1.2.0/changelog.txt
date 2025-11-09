@@ -1,4 +1,2 @@
 Fixes:
-Fixed Update Checker
-Mods Removed:
-- CrashAssistant
+Fixed config errors.
