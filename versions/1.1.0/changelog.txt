@@ -1,2 +1,0 @@
-Removed 1 mods:
-- Server Browser - In Game Server Listings
